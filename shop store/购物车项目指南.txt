@@ -1,0 +1,19 @@
+                                          购物车项目指南
+
+1. 打开XAMPP Control Panel, 并且将Apache 和 MySQL 启动
+
+2. 打开 phpmyadmin
+
+3. 创建一个数据库，命名为 "shop"。
+
+4. 将文件名为"shop.sql"的文件导入刚建立的数据库
+
+5. 将所有文件拷贝到服务端 htdocs的文件夹里面
+
+6. 打开你的浏览器输入 URL：“http://localhost/shop store/”
+
+7. 要以管理员身份登录，请输入 URL：“http://localhost/shop store”
+
+用户登录详情：
+登录 ID：admin@bu.edu
+密码：123456
